@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushnadar&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushnadar" /> </p>
 
-- 🌱 I’m currently learning **Python, SQL, Microprocessor**
+- 🌱 I’m currently learning **Python, SQL, Microprocessor,Docker**
 
 - 📫 How to reach me **3701dhanushsvjc@gmail.com**
 
