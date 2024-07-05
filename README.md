@@ -1,26 +1,57 @@
 <h1 align="center">Hi 👋, I'm Dhanush Nadar</h1>
+
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+
 <h3 align="center">I'm currently studying Computer Science Engineering</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushnadar&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushnadar" /> </p>
+                - 🌱 Currently undergoing TrainWithShubam Batch 7 DevOps Zero to Hero training.
+                
+                - 🎓 Diploma in Computer Engineering from SVKM's Shri Bhagubhai Mafatlal Polytechnic.
+                
+                - 🛠 Passionate about automating processes and streamlining deployment workflows.
+                
+                - 💻 Proficient in Git, Linux, Docker, Kubernetes, Jenkins, Ansible, Python, Bash, SQL, MongoDB.
+                
+                - 🔍 Enthusiastic about solving complex problems and optimizing systems.
+                
+                - 🌐 Continuously learning and staying updated with the latest in DevOps and technology.
+                
+                - 👥 Eager to collaborate with like-minded professionals and contribute to innovative projects.
+                
+                - 📫 Reach me at 3701dhanushsvjc@gmail.com or connect on LinkedIn
 
-- 🌱 I’m currently learning **Python, SQL, Microprocessor,Docker**
+<br><br> Vibing to : 🎧  </strong></p>
 
-- 📫 How to reach me **3701dhanushsvjc@gmail.com**
-
-- ⚡ Fun fact **I am funny but not !!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhanush-nadar-25aa29265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhanush-nadar-25aa29265/" height="30" width="40" /></a>
-</p>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)]([https://open.spotify.com/user/31kickv3ee3cmuxehadnnnrtuc5u]) <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="docker" width="60" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jen" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="jen" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ans" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" alt="ans" width="65" height="65"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanushnadar&show_icons=true&locale=en&layout=compact" alt="dhanushnadar" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanushnadar&show_icons=true&locale=en" alt="dhanushnadar" /></p>
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+![Dhanush's github stats](https://github-readme-stats.vercel.app/api?username=DhanushNadar&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushnadar&" alt="dhanushnadar" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushNadar&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhanushNadar&theme=dark)](https://git.io/streak-stats)
+
+---
+
+⏳ **Year Progress** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 30.83 % as on ⏰ 5-Jul-2024
+
+
