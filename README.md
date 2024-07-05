@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhanush Nadar</h1>
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+![](https://github.com/DhanushNadar/DhanushNadar/blob/main/header_1.png)
 
 <h3 align="center">I'm currently studying Computer Science Engineering</h3>
 
@@ -32,13 +32,18 @@
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jen" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="jen" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="55" height="55"/>
+      <img src="https://i.pinimg.com/originals/4e/06/c2/4e06c2957def0eeed5be4b0a4bbe871b.png" alt="apache" width="55" height="55"/>
+      <img src="https://avatars.githubusercontent.com/u/1303819?s=200&v=4" alt="sonarqube" width="55" height="55"/>
+      <img src="https://k21academy.com/wp-content/uploads/2021/04/trivy-logo-shape.png" alt="trivy" width="55" height="55"/>
+      <img src="https://cydrill.com/wp-content/uploads/owasp_logo_flat2_icon.png" alt="owasp" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ans" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" alt="ans" width="65" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" alt="cisco" width="65" height="65"/>
 </p>
 
 ---
