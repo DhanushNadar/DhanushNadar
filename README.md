@@ -2,13 +2,13 @@
 
 ![](https://github.com/DhanushNadar/DhanushNadar/blob/main/header_1.png)
 
-<h3 align="center">I'm currently studying Computer Science Engineering</h3>
+<h3 align="center">I'm currently studying Information Technology</h3>
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
                 - 🌱 Currently undergoing TrainWithShubam Batch 7 DevOps Zero to Hero training.
-                
-                - 🎓 Diploma in Computer Engineering from SVKM's Shri Bhagubhai Mafatlal Polytechnic.
+                  
+                - 🎓 B.E in Information Technology from Thakur College of Engineering and Technology (TCET).
                 
                 - 🛠 Passionate about automating processes and streamlining deployment workflows.
                 
